@@ -1,0 +1,88 @@
+/*Checking*/
+/*Checking*/
+#slider_image{
+	margin: 20px 400px;	
+}
+#tablediv{
+	margin:250px;
+}
+#slider_buttons{
+	clear:both;	
+	margin: 40px 550px 20px 550px;
+}
+
+body{
+	cursor:url("Images/Wand.png"), auto; 
+	background-image: url("Images/snowman1.gif");
+}
+#tdemail,#tdphone,#tdconfirmpassword,#tdpassword{
+	color: red;
+}
+
+#loginbutton{
+	margin: 30px;
+}
+#registerbutton{
+	margin: 160px 160px 140px 140px;
+}
+
+#logindiv{
+	background-color: #C1E1F2;
+	margin: 120px 0px 140px 110px;
+	max-width: 45%;
+	min-height: 200px;
+	max-height: 250px;
+	padding: 100px 50px 50px 40px;
+	outline-style: inset;
+	outline-color: #52575A;
+	float:left;
+}
+
+#registerdiv{
+	background-color: #C1E1F2;
+	max-width: 30%;
+	min-width: 25%;
+	min-height: 350px;
+	outline-style: inset;
+	outline-color: #52575A;
+	margin: 120px 50px 160px 170px;
+	float:left;		
+}
+
+#button{
+	margin:20px;
+}
+
+.div2{
+margin:70px;
+margin-left: 250px;
+}
+.menuoptions{
+	display:inline;
+}
+.options{
+	background-color: purple;
+	color:white;
+	width=7em;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top : 10px;
+	float:left;
+	border-right: 1px solid white;
+	border-style : groove;
+	text-decoration: none; 
+	font-family: fantasy;
+	font-size: 20px; 	
+}
+
+a:HOVER{
+	background-color: red;
+}
+
+a:ACTIVE{
+	background-color: orange;
+}
+
+#menu{
+margin:40px 50px 40px 0px;
+}
